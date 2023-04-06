@@ -57,7 +57,7 @@ void loop(){
     if(betType == "straight"){
       //cout << "Number: " << number << '\n';
       if(number == straightBet){
-        profit += 36;
+        profit += 35;
       }else {
         profit--;
       }
